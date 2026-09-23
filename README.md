@@ -9,8 +9,8 @@
 I build data analytics projects that turn operational data into clear, practical
 business insights — with a particular focus on **Supply Chain, Logistics and Operations Analytics**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](YOUR_TABLEAU_PUBLIC_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naser-mahmood/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/naser.mahmood/vizzes)
 [![GitHub](https://img.shields.io/badge/GitHub-NMahmood65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NMahmood65)
 
 </div>
@@ -198,8 +198,8 @@ realistic operational datasets, with an emphasis on:
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📊 [Tableau Public](YOUR_TABLEAU_PUBLIC_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naser-mahmood/)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/naser.mahmood/vizzes)
 - 💻 [GitHub](https://github.com/NMahmood65)
 
 ---
