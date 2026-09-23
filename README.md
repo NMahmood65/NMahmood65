@@ -4,7 +4,7 @@
 
 ### Data Analyst | Supply Chain & Logistics Analytics
 
-**Excel • SQL • MySQL • PostgreSQL • Tableau • Power BI**
+**Excel • SQL • Tableau • Power BI**
 
 I build data analytics projects that turn operational data into clear, practical
 business insights — with a particular focus on **Supply Chain, Logistics and Operations Analytics**.
