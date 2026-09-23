@@ -155,7 +155,7 @@ Slicers, formulas and KPI reporting.
 
 ---
 
-### ✈️ [Aviation Fuel Supply Optimisation](https://github.com/NMahmood65/aviation-fuel-supply-optimisation)
+### ✈️ [Aviation Fuel Supply Optimisation](https://github.com/NMahmood65/aviation-fuel-supply-optimiser)
 
 **Aviation fuel supply and operations analysis**
 
@@ -170,7 +170,7 @@ showing how analytics can be applied to a specialist supply-chain environment.
 
 **Tools:** `SQL` `Excel` `Tableau`
 
-[**View Project →**](https://github.com/NMahmood65/aviation-fuel-supply-optimisation)
+[**View Project →**](https://github.com/NMahmood65/aviation-fuel-supply-optimiser)
 
 ---
 
