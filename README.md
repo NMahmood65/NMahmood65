@@ -75,6 +75,26 @@ Actionable Decisions
 
 ## 📊 Featured Projects
 
+### 🚚 [Pan-European Road Freight Procurement & Network Analysis](https://github.com/NMahmood65/EU-Freight-Procurement-Analysis)
+
+**Commercial haulage rate benchmarking, SLA monitoring, and carrier risk allocation**
+
+Analysis of 3,500 FTL road shipments across 90 cross-border European corridors, evaluating quarterly spend (€4.04M), contracted rate competitiveness against spot market indices, and secondary routing cost penalties.
+
+**Highlights:**
+
+* Pan-European line-haul rate benchmarking across 90 lanes connecting core DACH, Benelux, France, CEE, and UK logistics hubs
+* Dynamic fuel surcharge (BAF) indexation modeling and spot market variance tracking (+€66.8k net contract savings)
+* Root-cause evaluation of secondary and spot emergency fallback premiums (+15% to +25% cost surge at lower SLA reliability)
+* Multi-factor carrier risk framework flagging high-disruption corridors and sub-90% punctuality hauliers
+* Executive procurement dashboard with dynamic multi-criterion lookups, portfolio spend shares, and scenario re-planning logic
+
+**Tools:** `Excel` `Advanced Formulas` `XLOOKUP` `Spend Analytics` `Logistics Procurement` `Risk Scoring`
+
+[View Project →](https://github.com/NMahmood65/EU-Freight-Procurement-Analysis)
+
+---
+
 ### 🚢 [Global Supply Chain & ESG Disruption Model](https://github.com/NMahmood65/emea_supply_chain_ae)
 
 **End-to-end maritime disruption, demurrage, and carbon analytics**
