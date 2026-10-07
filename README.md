@@ -75,6 +75,24 @@ Actionable Decisions
 
 ## 📊 Featured Projects
 
+### 🚢 [Global Supply Chain & ESG Disruption Model](https://github.com/NMahmood65/emea_supply_chain_ae)
+
+**End-to-end maritime disruption, demurrage, and carbon analytics**
+
+Analysis of Red Sea chokepoint diversions around the Cape of Good Hope, evaluating transit delays, detention liabilities, and Scope 3 carbon compliance using a 50,000-shipment dataset.
+
+**Highlights:**
+
+* Maritime transit delay and Cape of Good Hope route detour analysis (+11.8 days)
+* Inland port congestion and container demurrage liability modeling (€82.8M)
+* Scope 3 freight carbon intensity and EU ETS exposure modeling (+230% CO2e surge)
+* Medallion data engineering architecture with 24 automated dbt data integrity tests
+* Executive Tableau Public control tower and interactive financial risk model
+
+**Tools:** `dbt Core` `DuckDB` `SQL` `Tableau` `Excel` `Python`
+
+[View Project →](https://github.com/NMahmood65/emea_supply_chain_ae)
+
 ### 🚚 [EMEA Supply Chain Optimisation](https://github.com/NMahmood65/emea_supply_chain_optimisation)
 
 **End-to-end supply chain analytics**
